@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/img/exit.svg</file>
+        <file>src/img/pause.svg</file>
+        <file>src/img/retry.svg</file>
+    </qresource>
+</RCC>
