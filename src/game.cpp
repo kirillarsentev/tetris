@@ -504,13 +504,6 @@ void Game::on_btn_exit_clicked()
     this->close();
 }
 
-
-void Game::on_btn_pause_clicked()
-{
-
-}
-
-
 void Game::on_btn_retry_clicked()
 {
     InitGame();
